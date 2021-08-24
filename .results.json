@@ -5,16 +5,16 @@
     "passes": 7,
     "pending": 0,
     "failures": 0,
-    "start": "2021-05-02T01:29:30.139Z",
-    "end": "2021-05-02T01:29:31.479Z",
-    "duration": 1340
+    "start": "2021-08-24T19:56:18.873Z",
+    "end": "2021-08-24T19:56:19.275Z",
+    "duration": 402
   },
   "tests": [
     {
       "title": "has a class of cat",
       "fullTitle": "cat has a class of cat",
-      "file": "/Users/musiccity365/Development/online-software-engineering-pt-first-mile/fewpjs-adding-behavior-with-methods/test/indexTest.js",
-      "duration": 1,
+      "file": "/Users/musiccity365/Development/online-software-engineering-pt-120720/fewpjs-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -22,8 +22,8 @@
     {
       "title": "cat.speak() returns '[name]' says meow!",
       "fullTitle": "cat cat.speak() returns '[name]' says meow!",
-      "file": "/Users/musiccity365/Development/online-software-engineering-pt-first-mile/fewpjs-adding-behavior-with-methods/test/indexTest.js",
-      "duration": 1,
+      "file": "/Users/musiccity365/Development/online-software-engineering-pt-120720/fewpjs-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -31,7 +31,7 @@
     {
       "title": "has a class of dog",
       "fullTitle": "dog has a class of dog",
-      "file": "/Users/musiccity365/Development/online-software-engineering-pt-first-mile/fewpjs-adding-behavior-with-methods/test/indexTest.js",
+      "file": "/Users/musiccity365/Development/online-software-engineering-pt-120720/fewpjs-adding-behavior-with-methods/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -40,7 +40,7 @@
     {
       "title": "dog.speak() returns '[name] says woof!'",
       "fullTitle": "dog dog.speak() returns '[name] says woof!'",
-      "file": "/Users/musiccity365/Development/online-software-engineering-pt-first-mile/fewpjs-adding-behavior-with-methods/test/indexTest.js",
+      "file": "/Users/musiccity365/Development/online-software-engineering-pt-120720/fewpjs-adding-behavior-with-methods/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -49,8 +49,8 @@
     {
       "title": "has a class of Bird",
       "fullTitle": "bird has a class of Bird",
-      "file": "/Users/musiccity365/Development/online-software-engineering-pt-first-mile/fewpjs-adding-behavior-with-methods/test/indexTest.js",
-      "duration": 1,
+      "file": "/Users/musiccity365/Development/online-software-engineering-pt-120720/fewpjs-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -58,7 +58,7 @@
     {
       "title": "bird.speak() returns 'It's me! [name], the parrot!'",
       "fullTitle": "bird bird.speak() returns 'It's me! [name], the parrot!'",
-      "file": "/Users/musiccity365/Development/online-software-engineering-pt-first-mile/fewpjs-adding-behavior-with-methods/test/indexTest.js",
+      "file": "/Users/musiccity365/Development/online-software-engineering-pt-120720/fewpjs-adding-behavior-with-methods/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -67,7 +67,7 @@
     {
       "title": "bird2.speak() returns 'Squawk!'",
       "fullTitle": "bird bird2.speak() returns 'Squawk!'",
-      "file": "/Users/musiccity365/Development/online-software-engineering-pt-first-mile/fewpjs-adding-behavior-with-methods/test/indexTest.js",
+      "file": "/Users/musiccity365/Development/online-software-engineering-pt-120720/fewpjs-adding-behavior-with-methods/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -80,8 +80,8 @@
     {
       "title": "has a class of cat",
       "fullTitle": "cat has a class of cat",
-      "file": "/Users/musiccity365/Development/online-software-engineering-pt-first-mile/fewpjs-adding-behavior-with-methods/test/indexTest.js",
-      "duration": 1,
+      "file": "/Users/musiccity365/Development/online-software-engineering-pt-120720/fewpjs-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -89,8 +89,8 @@
     {
       "title": "cat.speak() returns '[name]' says meow!",
       "fullTitle": "cat cat.speak() returns '[name]' says meow!",
-      "file": "/Users/musiccity365/Development/online-software-engineering-pt-first-mile/fewpjs-adding-behavior-with-methods/test/indexTest.js",
-      "duration": 1,
+      "file": "/Users/musiccity365/Development/online-software-engineering-pt-120720/fewpjs-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -98,7 +98,7 @@
     {
       "title": "has a class of dog",
       "fullTitle": "dog has a class of dog",
-      "file": "/Users/musiccity365/Development/online-software-engineering-pt-first-mile/fewpjs-adding-behavior-with-methods/test/indexTest.js",
+      "file": "/Users/musiccity365/Development/online-software-engineering-pt-120720/fewpjs-adding-behavior-with-methods/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -107,7 +107,7 @@
     {
       "title": "dog.speak() returns '[name] says woof!'",
       "fullTitle": "dog dog.speak() returns '[name] says woof!'",
-      "file": "/Users/musiccity365/Development/online-software-engineering-pt-first-mile/fewpjs-adding-behavior-with-methods/test/indexTest.js",
+      "file": "/Users/musiccity365/Development/online-software-engineering-pt-120720/fewpjs-adding-behavior-with-methods/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -116,8 +116,8 @@
     {
       "title": "has a class of Bird",
       "fullTitle": "bird has a class of Bird",
-      "file": "/Users/musiccity365/Development/online-software-engineering-pt-first-mile/fewpjs-adding-behavior-with-methods/test/indexTest.js",
-      "duration": 1,
+      "file": "/Users/musiccity365/Development/online-software-engineering-pt-120720/fewpjs-adding-behavior-with-methods/test/indexTest.js",
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -125,7 +125,7 @@
     {
       "title": "bird.speak() returns 'It's me! [name], the parrot!'",
       "fullTitle": "bird bird.speak() returns 'It's me! [name], the parrot!'",
-      "file": "/Users/musiccity365/Development/online-software-engineering-pt-first-mile/fewpjs-adding-behavior-with-methods/test/indexTest.js",
+      "file": "/Users/musiccity365/Development/online-software-engineering-pt-120720/fewpjs-adding-behavior-with-methods/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -134,7 +134,7 @@
     {
       "title": "bird2.speak() returns 'Squawk!'",
       "fullTitle": "bird bird2.speak() returns 'Squawk!'",
-      "file": "/Users/musiccity365/Development/online-software-engineering-pt-first-mile/fewpjs-adding-behavior-with-methods/test/indexTest.js",
+      "file": "/Users/musiccity365/Development/online-software-engineering-pt-120720/fewpjs-adding-behavior-with-methods/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
